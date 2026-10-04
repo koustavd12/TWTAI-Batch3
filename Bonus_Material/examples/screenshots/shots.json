@@ -1,0 +1,8 @@
+{
+  "max_age_days": 30,
+  "chrome": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+  "shots": [
+    { "name": "keys-page", "url": "demo-app/index.html", "width": 900, "height": 520,
+      "used_in": ["draft.md"], "alt": "The API keys page with a Create key button and two active keys" }
+  ]
+}

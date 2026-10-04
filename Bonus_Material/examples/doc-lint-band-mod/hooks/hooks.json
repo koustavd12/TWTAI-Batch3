@@ -1,0 +1,4 @@
+{
+  "description": "doc-lint-band hooks module",
+  "modules": ["./register.js"]
+}

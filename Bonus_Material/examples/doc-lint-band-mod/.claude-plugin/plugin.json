@@ -1,0 +1,6 @@
+{
+  "name": "doc-lint-band",
+  "version": "0.1.0",
+  "description": "Shows a live docs-lint status band above the prompt whenever Claude writes or edits a Markdown file, and adds /doclint <file>.",
+  "author": { "name": "Aman Talwar" }
+}

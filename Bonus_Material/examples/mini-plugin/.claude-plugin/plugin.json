@@ -1,0 +1,7 @@
+{
+  "name": "stc-doc-kit",
+  "version": "1.0.0",
+  "description": "STC demo: a skill, a slash command, a read-only agent, a hook, and a local MCP server for documentation work.",
+  "author": { "name": "Aman Talwar" },
+  "keywords": ["documentation", "technical-writing", "demo"]
+}
